@@ -1,0 +1,6 @@
+# ICS 2203 INTERNET APPLICATION PROGRAMMING ASSIGNMENT
+Reg. No: **SCT211-0065/2022** <br>
+NAME: **SAJJAD ABDIRAHIM GEDOW** <br>
+**COMPUTER SCIENCE 2.1** **_PERSONAL ASSIGNMENT_**<br>
+
+The Website is about Donald Ervin Knuth, a famous Computer Scientist.
